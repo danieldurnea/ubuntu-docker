@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:23.10
 
 # prevent interactive prompts
 ENV DEBIAN_FRONTEND=noninteractive
